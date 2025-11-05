@@ -1,0 +1,309 @@
+﻿,Nanoparticle,Core Size (nm),Shape,Zeta Potential (mV),Surface Area (m²/g),Aggregation State,Dissolution Rate (mg/L),Zn²⁺ Ion Release (mg/L),Impurity Content (%),Surface Chemistry,Coating Type,Oxidative Potential,Exposure Dosage (µg/mL),Exposure Time (hrs),Cell Type,ROS Production,Membrane Damage (%),Apoptosis (%),Necrosis (%),IC50 Value (µg/mL),Cell Viability (%),Toxicity Class
+0,SiO₂,20,Spherical,-30,150,Dispersed,0.5,0,0.1,Unmodified SiO₂,,High,25,24,HEK293,26.6,15,5.1,2.5,80.2,80,Toxic
+1,SiO₂,50,Spherical,-35,100,Agglomerated,0.3,0,0.1,Unmodified SiO₂,,Medium,50,24,HEK293,15,8,2.5,1.2,140.3,85,Toxic
+2,SiO₂,20,Spherical,-30,150,Dispersed,0.5,0,0.1,Unmodified SiO₂,None,High,25,24,HEK293,26.6,15,5.1,2.5,80.2,80,Toxic
+3,SiO₂,50,Spherical,-35,100,Agglomerated,0.3,0,0.1,Unmodified SiO₂,None,Medium,50,24,HEK293,15,8,2.5,1.2,140.3,85,Toxic
+4,SiO₂,15,Spherical,-25,200,Dispersed,0.7,0,0.1,Unmodified SiO₂,None,High,25,72,A431,40,18,7.5,3.1,95,89,Toxic
+5,SiO₂,15,Spherical,-25,200,Dispersed,0.7,0,0.1,Unmodified SiO₂,None,High,50,72,A549,45,20,8,3.5,90,87,Toxic
+6,SiO₂,20,Spherical,-28,201,Dispersed,0.6,0,0.1,Unmodified SiO₂,None,High,1000,24,Beas-2B,50,22,9.2,4.3,80,80,Toxic
+7,SiO₂,40,Spherical,-30,201,Dispersed,0.5,0,0.1,Unmodified SiO₂,None,High,1000,24,Beas-2B,55,25,10.5,5,75,78,Toxic
+8,SiO₂,20,Spherical,-34,201,Dispersed,0.6,0,0.1,Unmodified SiO₂,None,High,30,16,HepG2,52,24,11,5.8,70,75,Toxic
+9,SiO₂,7,Spherical,-32,380,Dispersed,0.7,0,0.1,Unmodified SiO₂,None,High,160,48,HepG2,60,28,15,6.5,50,60,Toxic
+10,SiO₂,20,Spherical,-30,150,Dispersed,0.6,0,0.1,Unmodified SiO₂,None,High,160,48,HepG2,55,25,13,5.8,65,70,Toxic
+11,SiO₂,7,Spherical,-30,380,Dispersed,0.7,0,0.1,Unmodified SiO₂,None,High,160,48,HepG2,58,30,16,7.2,45,58,Toxic
+12,SiO₂,20,Spherical,-28,150,Dispersed,0.6,0,0.1,Unmodified SiO₂,None,High,160,48,HepG2,52,27,14,6.5,60,65,Toxic
+13,SiO₂,50,Spherical,-25,65,Agglomerated,0.5,0,0.1,Unmodified SiO₂,None,Medium,160,48,HepG2,30,15,5.5,2.8,90,85,Non-Toxic
+14,SiO₂,15,Spherical,-14.37,,Dispersed,0.7,0,0.1,Unmodified SiO₂,None,High,15,24,HaCaT,62,32,18,8.5,23,55,Toxic
+15,SiO₂,30,Spherical,-63.31,,Dispersed,0.6,0,0.1,Unmodified SiO₂,None,Medium,15,24,HaCaT,50,25,12.5,6,27.3,65,Toxic
+16,SiO₂,43,Spherical,,,Dispersed,0.5,0,0.1,Unmodified SiO₂,None,High,100,24,HepG2,48,20,10,5,80,75,Toxic
+17,SiO₂,43,Spherical,,,Dispersed,0.5,0,0.1,Unmodified SiO₂,None,High,200,24,HepG2,52,25,12.5,6,70,65,Toxic
+18,SiO₂,15,Spherical,-14,400,Dispersed,0.7,0,0.1,Unmodified SiO₂,None,High,15,24,HaCaT,60,30,18,8.5,23,55,Toxic
+19,SiO₂,30,Spherical,-63,280,Dispersed,0.6,0,0.1,Unmodified SiO₂,None,Medium,15,24,HaCaT,50,25,12.5,6,27.3,65,Toxic
+20,SiO₂,60,Spherical,-40,335,Dispersed,0.5,0,0.1,Unmodified SiO₂,None,High,100,96,A549,40,18,9.5,4,80,65,Toxic
+21,SiO₂,60,Spherical,-40,335,Dispersed,0.5,0,0.1,Unmodified SiO₂,None,High,100,96,L929,25,12,5,2.5,100,70,Non-Toxic
+22,SiO₂,60,Spherical,-40,335,Dispersed,0.5,0,0.1,Unmodified SiO₂,None,High,100,96,KB,60,40,20,10,40,20,Toxic
+23,SiO₂,85,Spherical,-30,250,Dispersed,0.5,0,0.1,Amorphous SiO₂,None,Low,100,72,Balb/3T3,0,0,0,0,>100,100,Non-Toxic
+24,SiO₂,16,Spherical,-30,450,Dispersed,0.7,0,0.1,Amorphous SiO₂,None,High,50,24,A549,62,30,18,8.5,45,55,Toxic
+25,SiO₂,60,Spherical,-35,180,Dispersed,0.5,0,0.1,Amorphous SiO₂,None,Medium,50,24,A549,50,25,12.5,6,70,65,Toxic
+26,SiO₂,15,Spherical,-32.56,400,Dispersed,0.7,0,0.1,Amorphous SiO₂,None,High,10,24,HepG2,50,30,15,6.5,65,70,Toxic
+27,SiO₂,15,Spherical,-32.56,400,Dispersed,0.7,0,0.1,Amorphous SiO₂,None,High,10,24,HT1080,52,32,16,7,60,65,Toxic
+28,SiO₂,19,Spherical,-35,500,Dispersed,0.8,0,0.1,Amorphous SiO₂,None,Very High,100,24,HepG2,70,35,40.9,15,30,50,Toxic
+29,SiO₂,43,Spherical,-30,350,Dispersed,0.6,0,0.1,Amorphous SiO₂,None,High,100,24,HepG2,55,28,21.6,10,50,60,Toxic
+30,SiO₂,68,Spherical,-28,280,Dispersed,0.5,0,0.1,Amorphous SiO₂,None,Medium,100,24,HepG2,40,20,11.8,6,70,70,Toxic
+31,SiO₂,498,Spherical,-25,50,Agglomerated,0.3,0,0.1,Amorphous SiO₂,None,Low,100,24,HepG2,10,8,4.2,2,90,85,Non-Toxic
+32,SiO₂,14,Spherical,-38,450,Dispersed,0.8,0,0.1,Fumed SiO₂,None,High,75,24,RAW 264.7,60,33,35,12.5,40,55,Toxic
+33,SiO₂,18,Spherical,-36,400,Dispersed,0.7,0,0.1,Fumed SiO₂,None,High,75,24,RAW 264.7,50,28,28,10,50,60,Toxic
+34,SiO₂,30,Spherical,-35,350,Dispersed,0.6,0,0.1,Fumed SiO₂,None,Medium,75,24,RAW 264.7,40,20,18,8,65,70,Toxic
+35,SiO₂,90,Spherical,-30,200,Agglomerated,0.4,0,0.1,Fumed SiO₂,None,Low,75,24,RAW 264.7,20,12,5,3,85,80,Non-Toxic
+36,MNP@SiO₂,50,Spherical,-33,300,Dispersed,0.6,0,0.1,Magnetic SiO₂,None,High,125,24,L5178Y,55,25,30,10,80,65,Toxic
+37,MNP@SiO₂,100,Spherical,-30,250,Dispersed,0.5,0,0.1,Magnetic SiO₂,None,Medium,125,24,L5178Y,45,22,22,8.5,90,70,Toxic
+38,MNP@SiO₂,200,Spherical,-28,180,Dispersed,0.4,0,0.1,Magnetic SiO₂,None,Low,125,24,L5178Y,30,15,12,5,100,80,Non-Toxic
+39,SiO₂,30,Spherical,-36,380,Dispersed,0.7,0,0.1,Uncoated SiO₂,None,High,500,24,THP-1,58,30,24,9.5,50,60,Toxic
+40,SiO₂,80,Spherical,-32,320,Dispersed,0.6,0,0.1,Uncoated SiO₂,None,Medium,500,24,THP-1,45,24,18,7.5,65,70,Toxic
+41,SiO₂,400,Spherical,-30,220,Agglomerated,0.5,0,0.1,Uncoated SiO₂,None,Low,500,24,THP-1,30,15,12,5,90,80,Non-Toxic
+42,SiO₂,15,Spherical,-35,268.01,Dispersed,0.7,0,0.004,Uncoated SiO₂,None,High,10,48,A549,70,35,25,10,68.1,91.9,Toxic
+43,SiO₂,15,Spherical,-35,268.01,Dispersed,0.7,0,0.004,Uncoated SiO₂,None,High,50,48,A549,139,40,30,12,76,76,Toxic
+44,SiO₂,15,Spherical,-35,268.01,Dispersed,0.7,0,0.004,Uncoated SiO₂,None,High,100,48,A549,181,45,35,15,68.1,68.1,Toxic
+45,SiO₂,12,Spherical,-29.4,196,Dispersed,0.6,0,0.008,Hydrophilic SiO₂,None,High,20,24,J774.1,164,40,30,12,390,60,Toxic
+46,SiO₂,12,Spherical,-29.4,196,Dispersed,0.6,0,0.008,Hydrophilic SiO₂,None,High,10,24,J774.1,44,28,20,8,220,75,Toxic
+47,SiO₂,20,Spherical,-40,250,Dispersed,0.6,0,0.1,Uncoated SiO₂,None,Low,500,24,CHL (Chinese hamster lung fibroblast),10,5,2,1,500,100,Non-Toxic
+48,SiO₂,100,Spherical,-40,90,Dispersed,0.6,0,0.1,Uncoated SiO₂,None,Low,500,24,CHL (Chinese hamster lung fibroblast),8,4,1.5,0.8,500,100,Non-Toxic
+49,SiO₂,15,Spherical,-32,200,Dispersed,0.7,0,0.1,Uncoated SiO₂,None,Medium,300,24,V79 (Chinese hamster lung fibroblast),50,30,20,8,60,80,Toxic
+50,SiO₂,55,Spherical,-30,100,Dispersed,0.5,0,0.1,Uncoated SiO₂,None,Low,300,24,V79 (Chinese hamster lung fibroblast),30,20,12,5,90,85,Non-Toxic
+51,SiO₂,10,Spherical,-33.7,350,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,High,15,24,A549 (human lung carcinoma),300,45,35,15,25.1,50,Toxic
+52,SiO₂,20,Spherical,-33.7,300,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,Medium,15,24,A549 (human lung carcinoma),180,35,25,10,40,60,Toxic
+53,SiO₂,5000,Spherical,-44.1,50,Agglomerated,0.3,0,0.002,Uncoated SiO₂,None,Low,15,24,A549 (human lung carcinoma),50,10,5,2,100,85,Non-Toxic
+54,SiO₂,25,Spherical,-35,300,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,Medium,150,24,HT-29 (human intestinal epithelial),65,25,15,5,80,85,Non-Toxic
+55,SiO₂,100,Spherical,-32,120,Dispersed,0.6,0,0.002,Uncoated SiO₂,None,Low,150,24,HT-29 (human intestinal epithelial),40,15,10,3,100,90,Non-Toxic
+56,SiO₂,20,Spherical,-30,250,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,High,600,24,U373MG (human glioblastoma),150,40,30,10,410,60,Toxic
+57,SiO₂,100,Spherical,-28,120,Dispersed,0.6,0,0.002,Uncoated SiO₂,None,Medium,600,24,U373MG (human glioblastoma),90,25,15,5,4930,75,Non-Toxic
+58,A-SiO₂,15,Spherical,-34.2,170,Dispersed,0.7,0,0.002,Uncoated A-SiO₂,None,High,100,24,A549 (human lung carcinoma),200,40,25,10,68.1,65,Toxic
+59,A-SiO₂,3670,Spherical,-32.2,34.71,Agglomerated,0.4,0,0.002,Uncoated A-SiO₂,None,Low,100,24,A549 (human lung carcinoma),80,10,5,2,250,85,Non-Toxic
+60,SiO₂,20,Spherical,-34.2,600,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,Medium,1000,48,HFL1 (Human fetal lung fibroblast),113.4,30,20,8,75,70,Toxic
+61,SiO₂,20,Spherical,-34.2,600,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,Medium,500,48,HFL1 (Human fetal lung fibroblast),80,22,12,5,90,80,Non-Toxic
+62,Fe3O4@SiO₂,114,Spherical,-6.52,67,Dispersed,0.6,0,0.002,Unfunctionalized SiO₂-coated Fe3O4,Silica,Low,25,1,HK-2 (human renal proximal tubule epithelial),10,5,2,1,400,95,Non-Toxic
+63,Fe3O4@SiO₂-NH2,114,Spherical,-9.77,58,Dispersed,0.5,0,0.002,Amino-functionalized SiO₂-coated Fe3O4,Silica-NH2,Low,100,1,HK-2 (human renal proximal tubule epithelial),12,7,3,1.5,380,92,Non-Toxic
+64,SiO₂,20,Spherical,-8.5,250,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,High,1000,24,Buffalo Rat Liver (BRL),150,40,25,10,68.1,60,Toxic
+65,SiO₂,2000,Irregular,-28.1,50,Agglomerated,0.3,0,0.002,Uncoated SiO₂,None,Low,1000,24,Buffalo Rat Liver (BRL),50,10,5,2,500,85,Non-Toxic
+66,SiO₂,15,Spherical,-28.1,300,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,High,50,24,THP-1 (human monocyte-derived macrophage),300,50,40,15,10,50,Toxic
+67,SiO₂,60,Spherical,-30.6,250,Dispersed,0.6,0,0.002,Uncoated SiO₂,None,Medium,50,24,A549 (human lung carcinoma),150,40,25,10,18,65,Toxic
+68,SiO₂,200,Spherical,-31.8,150,Agglomerated,0.3,0,0.002,Uncoated SiO₂,None,Low,50,24,NRK-52E (rat kidney epithelial),50,15,5,2,200,85,Non-Toxic
+69,SiO₂,20,Spherical,-19,280,Dispersed,0.7,0,0.002,Citrate-coated SiO₂,Citrate,High,750000,336,"C57BL/6 Mice (in vivo), RAW 264.7 (in vitro)",150,30,20,8,71.1,65,Toxic
+70,SiO₂,100,Spherical,-40,120,Dispersed,0.6,0,0.002,Citrate-coated SiO₂,Citrate,Medium,750000,336,"C57BL/6 Mice (in vivo), RAW 264.7 (in vitro)",100,25,15,6,211.4,75,Toxic
+71,SiO₂,15,Spherical,-28.1,300,Dispersed,0.7,0,0.002,Uncoated SiO₂,None,High,50,24,THP-1 (human monocyte-derived macrophage),300,50,40,15,10,50,Toxic
+72,SiO₂,60,Spherical,-30.6,250,Dispersed,0.6,0,0.002,Uncoated SiO₂,None,Medium,50,24,A549 (human lung carcinoma),150,40,25,10,18,65,Toxic
+73,SiO₂,200,Spherical,-31.8,150,Agglomerated,0.3,0,0.002,Uncoated SiO₂,None,Low,50,24,NRK-52E (rat kidney epithelial),50,15,5,2,200,85,Non-Toxic
+74,AgO,10,Spherical,-20.5,220,Dispersed,0.8,0,0.002,Green-synthesized AgO using Sutherlandia frutescens extract,None,High,100,24,A549 (human lung carcinoma),180,40,30,10,37,4,Toxic
+75,AgO,10,Spherical,-20.5,220,Dispersed,0.8,0,0.002,Green-synthesized AgO using Sutherlandia frutescens extract,None,High,200,24,A549 (human lung carcinoma),250,60,40,15,37,2,Toxic
+76,AgO,30.2,Irregular,-54.4,180,Dispersed,0.8,0,0.002,Oxalic Acid synthesized AgO (O-AgO NPs),None,High,100,24,MCF-7 (breast cancer),175,45,30,12,48,60,Toxic
+77,AgO,44.2,Spherical,-48.7,160,Dispersed,0.7,0,0.002,Tri-sodium citrate synthesized AgO (T-AgO NPs),None,Medium,100,24,PVA1 (ovarian cancer),160,35,25,10,52.5,65,Toxic
+78,AgO,55.2,Irregular,-32,140,Dispersed,0.6,0,0.002,Oxalic Acid synthesized AgO (O-AgO NPs),None,Low,100,24,Caco-2 (colon cancer),50,15,5,2,,100,Non-Toxic
+79,AgO,100,Irregular,-45.6,150,Dispersed,0.8,0,0.002,Uncoated AgO,None,High,500,24,Staphylococcus aureus (bacteria),220,50,0,100,250,5,Bactericidal
+80,AgO,100,Irregular,-45.6,150,Dispersed,0.8,0,0.002,Uncoated AgO,None,High,5000,24,Staphylococcus aureus (bacteria),300,80,0,100,100,0,Bactericidal
+81,AgO,100,Irregular,-45.6,150,Dispersed,0.8,0,0.002,Uncoated AgO,None,High,500,24,Staphylococcus aureus (bacteria),220,50,0,100,250,5,Toxic
+82,AgO,100,Irregular,-45.6,150,Dispersed,0.8,0,0.002,Uncoated AgO,None,High,5000,24,Staphylococcus aureus (bacteria),300,80,0,100,100,0,Toxic
+83,AgO,25,Spherical,-30.4,200,Dispersed,0.9,0,0.002,Citrate-coated AgO,Citrate,High,250,24,HepG2 (human liver carcinoma),180,50,35,15,30,45,Toxic
+84,AgO,50,Spherical,-28.7,120,Dispersed,0.7,0,0.002,Citrate-coated AgO,Citrate,Medium,250,24,HepG2 (human liver carcinoma),120,30,20,8,80,65,Non-Toxic
+85,AgO,228,Spherical,-21.3,180,Dispersed,0.8,0,0.002,Green-synthesized AgO using Excoecaria agallocha extract,None,High,10,72,B16F10 (murine melanoma),170,40,30,12,1.1,50,Toxic
+86,AgO,228,Spherical,-21.3,180,Dispersed,0.8,0,0.002,Green-synthesized AgO using Excoecaria agallocha extract,None,High,10,72,CT26 (murine colon cancer),120,30,20,8,7.6,60,Toxic
+87,AgO,228,Spherical,-21.3,180,Dispersed,0.8,0,0.002,Green-synthesized AgO using Excoecaria agallocha extract,None,High,10,72,"NIH3T3 (murine fibroblast, normal control)",10,5,2,1,500,98,Non-Toxic
+88,AgO,15,Spherical,-25.2,250,Dispersed,0.9,0,0.002,Green-synthesized AgO using Cucurbita maxima extract,None,High,200,24,Saos-2 (human osteosarcoma),190,42,28,10,20,50,Toxic
+89,AgO,15,Spherical,-25.2,250,Dispersed,0.9,0,0.002,Green-synthesized AgO using Cucurbita maxima extract,None,High,200,24,"MC3T3-E1 (murine pre-osteoblast, normal control)",20,5,2,1,500,98,Non-Toxic
+90,AgO,6,Spherical,-22.8,320,Dispersed,0.9,0,0.002,Starch-coated AgO,Starch,High,200,48,IMR-90 (human lung fibroblast),180,50,40,15,18,50,Toxic
+91,AgO,6,Spherical,-22.8,320,Dispersed,0.9,0,0.002,Starch-coated AgO,Starch,High,200,48,U251 (human glioblastoma),250,60,50,20,10,40,Toxic
+92,AgO,20,Spherical,-24.8,280,Dispersed,0.85,0,0.002,Chitosan-coated AgO,Chitosan,High,150,48,HCT-116 (human colorectal carcinoma),210,55,42,18,14,45,Toxic
+93,AgO,20,Spherical,-24.8,280,Dispersed,0.85,0,0.002,Chitosan-coated AgO,Chitosan,High,150,48,"HEK-293 (human embryonic kidney, normal control)",30,8,2,1,500,97,Non-Toxic
+94,AgO,26.2,Spherical,-28.4,300,Dispersed,0.9,0,0.002,Sodium citrate-coated AgO,Sodium citrate,High,10,24,NIH 3T3 (mouse embryonic fibroblast),175,40,30,12,12,55,Toxic
+95,AgO,26.2,Spherical,-28.4,300,Dispersed,0.9,0,0.002,Sodium citrate-coated AgO,Sodium citrate,High,10,24,"RAW 264.7 (murine macrophage, normal control)",20,5,2,1,500,98,Non-Toxic
+96,Ag-MgO,15.09,"Hexagonal, Spherical",-30.2,260,Dispersed,0.85,0,0.002,Biogenic Silver Embedded Magnesium Oxide,None,High,125,24,PC-3 (human prostate cancer),210,55,42,18,125,45,Toxic
+97,MgO,13.68,"Porous, Needle-shaped",-28.6,240,Dispersed,0.7,0,0.002,Biogenic Magnesium Oxide,None,Medium,218.75,24,PC-3 (human prostate cancer),180,40,30,12,218.75,55,Toxic
+98,AgO,30,Spherical,-34.6,270,Dispersed,0.85,0,0.002,Tannic acid reduced AgO,Tannic acid,High,100,24,A549 (human lung carcinoma),220,55,42,18,28,45,Toxic
+99,AgO,30,Spherical,-34.6,270,Dispersed,0.85,0,0.002,Tannic acid reduced AgO,Tannic acid,High,100,24,"RAW 264.7 (murine macrophage, normal control)",40,8,3,1.5,500,95,Non-Toxic
+100,AgO,68.9,Spherical,0.91,250,Dispersed,0.85,0,0.002,FBS-coated AgO,Fetal Bovine Serum (FBS),High,1.6,96,RAW 264.7 (mouse macrophage),200,50,40,15,1.6,50,Toxic
+101,AgO,68.9,Spherical,0.91,250,Dispersed,0.85,0,0.002,FBS-coated AgO,Fetal Bovine Serum (FBS),High,1.6,96,"RAW 264.7 (mouse macrophage, control group)",20,5,2,1,500,95,Non-Toxic
+102,AgO,56.4,Spherical,-11,272,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,100,24,A549 (human lung carcinoma),240,60,45,20,25,40,Toxic
+103,AgO,56.4,Spherical,-11,272,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,100,24,"RAW 264.7 (murine macrophage, normal control)",30,10,3,1.5,500,95,Non-Toxic
+104,Ag₂O,54,"Spherical, Agglomerated",-18.7,265,Dispersed,0.8,0,0.002,Datura innoxia leaf-extract synthesized Ag₂O,None,High,100,48,MCF-7 (human breast cancer),230,58,45,19,17.9,50,Toxic
+105,Ag₂O,63,Spherical,-20.4,250,Dispersed,0.75,0,0.002,Sodium borohydride synthesized Ag₂O,None,Medium,100,48,MCF-7 (human breast cancer),180,45,35,15,23.8,55,Toxic
+106,Ag₂O,63,Spherical,-20.5,270,Dispersed,0.85,0,0.002,Datura innoxia synthesized Ag₂O,None,High,100,48,MCF-7 (human breast cancer),220,55,42,18,17.9,45,Toxic
+107,Ag₂O,63,Spherical,-20.5,270,Dispersed,0.85,0,0.002,Datura innoxia synthesized Ag₂O,None,High,100,48,"Vero (African green monkey kidney, normal control)",30,5,2,1,500,95,Non-Toxic
+108,AgO,10,Spherical,-25.3,320,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,3.38,28,HepG2 (human hepatoma),220,55,42,18,3.38,45,Toxic
+109,AgO,10,Spherical,-25.3,320,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,3.38,28,"HepG2 (human hepatoma, NAC-pretreated control)",30,10,3,1.5,500,95,Non-Toxic
+110,AgO,15,Spherical,-25.1,320,Dispersed,0.9,0,0.002,Biologically synthesized AgO using Escherichia coli,None,High,25,24,A549 (human lung adenocarcinoma),250,65,50,20,25,45,Toxic
+111,AgO,15,Spherical,-25.1,320,Dispersed,0.9,0,0.002,Biologically synthesized AgO using Escherichia coli,None,High,25,24,"A549 (human lung adenocarcinoma, control group)",20,8,3,1.5,500,98,Non-Toxic
+112,AgO,10,Spherical,-25.3,320,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,100,12,Rat Tracheal Epithelial (RTE) cells,220,55,42,18,100,45,Toxic
+113,AgO,100,Spherical,-22.5,250,Dispersed,0.8,0,0.002,Uncoated Silver Oxide,None,Medium,100,12,Rat Tracheal Epithelial (RTE) cells,150,40,25,10,100,65,Toxic
+114,Ag₂O,10,Spherical,-24.8,320,Dispersed,0.9,0,0.002,Diospyros montana bark-extract synthesized Ag₂O,None,High,40,24,HepG2 (human hepatocellular carcinoma),250,60,45,20,22,50,Toxic
+115,Ag₂O,10,Spherical,-24.8,320,Dispersed,0.9,0,0.002,Diospyros montana bark-extract synthesized Ag₂O,None,High,40,24,"HepG2 (human hepatocellular carcinoma, control group)",30,8,3,1.5,500,98,Non-Toxic
+116,AgO,20,Spherical,-47.1,1310,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,7.1,24,L929 (mouse fibroblasts),220,55,42,18,7.1,45,Toxic
+117,AgO,20,Spherical,-47.1,1310,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,7.1,24,"RAW 264.7 (murine macrophages, control group)",30,8,3,1.5,500,98,Non-Toxic
+118,AgO,15,Spherical,-25.1,320,Dispersed,0.9,0,0.002,Biogenic silver oxide using Abutilon indicum,None,High,3,24,COLO 205 (human colon carcinoma),250,65,50,20,3,45,Toxic
+119,AgO,15,Spherical,-25.1,320,Dispersed,0.9,0,0.002,Biogenic silver oxide using Abutilon indicum,None,High,3,24,"MDCK (Madin-Darby Canine Kidney, normal control)",20,8,3,1.5,100,98,Non-Toxic
+120,AgO,26,Spherical,-72,22,Dispersed,0.52,0,0.002,Ascorbic Acid stabilized AgO,Ascorbic Acid,High,10,24,HL-60 (human promyelocytic leukemia),250,65,50,20,10,45,Toxic
+121,AgO,20,Spherical,-61,28,Dispersed,0.23,0,0.002,Gallic Acid stabilized AgO,Gallic Acid,High,10,24,U-937 (human histiocytic lymphoma),270,75,60,25,8,40,Toxic
+122,Ag₂O-MBG,60,Spherical,-30.5,316,Dispersed,0.9,0,0.002,Silver oxide doped mesoporous bioactive glass,None,High,11.88,24,MG-63 (human osteosarcoma),250,60,50,20,11.88,45,Toxic
+123,Ag₂O-MBG,60,Spherical,-30.5,316,Dispersed,0.9,0,0.002,Silver oxide doped mesoporous bioactive glass,None,High,11.88,24,"Normal Human Fibroblast (NHFB, control group)",30,8,3,1.5,178,78,Non-Toxic
+124,AgO,10,Spherical,-25.3,320,Dispersed,0.9,0,0.002,Citrate-coated Silver Oxide,Citrate,High,10,24,RBE4 (rat brain endothelial cells),250,65,50,20,10,45,Toxic
+125,AgO,50,Spherical,-20.1,150,Dispersed,0.8,0,0.002,Citrate-coated Silver Oxide,Citrate,Medium,10,24,"RBE4 (rat brain endothelial cells, control group)",30,8,3,1.5,100,98,Non-Toxic
+126,AgO,10,Spherical,-16.3,320,Dispersed,0.9,0,0.002,Green-synthesized Silver Oxide using Fagonia indica,None,High,12.35,24,MCF-7 (human breast cancer),250,65,50,20,12.35,45,Toxic
+127,AgO,10,Spherical,-16.3,320,Dispersed,0.9,0,0.002,Green-synthesized Silver Oxide using Fagonia indica,None,High,12.35,24,"MCF-7 (human breast cancer, control group)",20,8,3,1.5,500,98,Non-Toxic
+128,AgO,10,Spherical,-16.3,320,Dispersed,0.9,0,0.002,Green-synthesized Silver Oxide using Fagonia indica,None,High,12.35,24,MCF-7 (human breast cancer),250,65,50,20,12.35,45,Toxic
+129,AgO,10,Spherical,-16.3,320,Dispersed,0.9,0,0.002,Green-synthesized Silver Oxide using Fagonia indica,None,High,12.35,24,"MCF-7 (human breast cancer, control group)",20,8,3,1.5,500,98,Non-Toxic
+130,AgO,100,Spherical,-25.3,320,Dispersed,0.9,0,0.002,Citrate-coated Silver Oxide,Citrate,High,100,24,A549 (human lung carcinoma),250,65,50,20,100,45,Toxic
+131,AgO,100,Spherical,-25.3,320,Dispersed,0.9,0,0.002,Citrate-coated Silver Oxide,Citrate,High,100,24,"RAW 264.7 (murine macrophages, control group)",20,8,3,1.5,500,98,Non-Toxic
+132,Ag-CuO,15.22,Spherical,-20.5,280,Dispersed,0.85,0,0.002,Silver-doped Copper Oxide (20% Ag),None,High,15,24,A549 (human lung carcinoma),250,65,50,20,15,45,Toxic
+133,Ag-CuO,15.22,Spherical,-20.5,280,Dispersed,0.85,0,0.002,Silver-doped Copper Oxide (20% Ag),None,High,15,24,"Normal Human Fibroblast (NHFB, control group)",20,8,3,1.5,500,98,Non-Toxic
+134,AgO,24.1,Spherical,-18,320,Dispersed,0.9,0,0.002,Phyco-synthesized Silver Oxide using Nodularia haraviana,None,High,18.71,24,Leishmanial promastigotes,250,65,50,20,18.71,45,Toxic
+135,AgO,24.1,Spherical,-18,320,Dispersed,0.9,0,0.002,Phyco-synthesized Silver Oxide using Nodularia haraviana,None,High,395,24,Macrophages (biocompatibility test),30,8,3,1.5,395,95,Non-Toxic
+136,AgO,10,Spherical,-25.3,320,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,10,24,MC3T3-E1 (mouse preosteoblasts),250,65,50,20,10,45,Toxic
+137,AgO,10,Spherical,-25.3,320,Dispersed,0.9,0,0.002,Uncoated Silver Oxide,None,High,10,24,PC12 (rat adrenal medulla derived cells),230,60,45,25,10,48,Toxic
+138,CuO,14,"Cuboid, Crystalline",-30.5,316,Dispersed,0.9,0,0.002,Euphorbia hirta leaf extract synthesized Copper Oxide,None,High,750,48,A549 (human lung carcinoma),250,65,50,20,750,41,Toxic
+139,CuO,14,"Cuboid, Crystalline",-30.5,316,Dispersed,0.9,0,0.002,Euphorbia hirta leaf extract synthesized Copper Oxide,None,High,750,48,"Normal Human Fibroblast (NHFB, control group)",20,8,3,1.5,500,95,Non-Toxic
+140,CuO,50,Spherical,-30.2,316,Dispersed,0.9,0,0.002,Commercial Copper Oxide Nanoparticles,None,High,37.9,24,hCMEC/D3 (human cerebral microvascular endothelial cells),250,60,50,20,37.9,40,Toxic
+141,CuO,50,Spherical,-30.2,316,Dispersed,0.9,0,0.002,Commercial Copper Oxide Nanoparticles,None,High,37.9,24,"Normal Human Fibroblast (NHFB, control group)",20,8,3,1.5,500,98,Non-Toxic
+142,CuO,211,Spherical,-14,320,Dispersed,0.9,0,0.002,Green-synthesized Copper Oxide using Mangifera indica seed kernel extract,None,High,24.14,24,SH-SY5Y (human neuroblastoma),250,65,50,20,24.14,45,Toxic
+143,CuO,211,Spherical,-14,320,Dispersed,0.9,0,0.002,Green-synthesized Copper Oxide using Mangifera indica seed kernel extract,None,High,453.72,24,Antioxidant DPPH assay,20,8,3,1.5,453.72,95,Non-Toxic
+144,CuO,100,Spherical,63.2,200,Dispersed,0.8,0,0.002,Schiff Base-Synthesized Copper Oxide,Schiff Base,High,18.68,24,HepG2 (human hepatocellular carcinoma),220,55,42,18,18.68,45,Toxic
+145,CuO,100,Spherical,63.2,200,Dispersed,0.8,0,0.002,Schiff Base-Synthesized Copper Oxide,Schiff Base,High,395,24,Macrophages (biocompatibility test),30,8,3,1.5,395,95,Non-Toxic
+146,CuO,28,"Cuboid, Nanocube",-25.4,320,Dispersed,0.9,0,0.002,Bio-fabricated Copper Oxide using Rhinacanthus nasutus and Pisonia alba,None,High,93.6,24,BT-549 (human breast cancer),250,65,50,20,93.6,45,Toxic
+147,CuO,28,"Cuboid, Nanocube",-25.4,320,Dispersed,0.9,0,0.002,Bio-fabricated Copper Oxide using Rhinacanthus nasutus and Pisonia alba,None,High,230,24,"Normal Human Fibroblast (NHFB, control group)",20,8,3,1.5,230,95,Non-Toxic
+148,CuO,50,Spherical,-30.2,316,Dispersed,0.9,0,0.002,Commercial Copper Oxide Nanoparticles,None,High,25,24,A549 (human lung carcinoma),250,60,50,20,25,40,Toxic
+149,CuO,50,Spherical,-30.2,316,Dispersed,0.9,0,0.002,Commercial Copper Oxide Nanoparticles,None,High,100,24,"Precision-cut lung slices (PCLS, ex vivo model)",20,8,3,1.5,100,95,Non-Toxic
+150,CuO,20,Spherical,-30.5,316,Dispersed,0.9,0,0.002,Commercial Copper Oxide Nanoparticles,None,High,25,24,K562 (human chronic myelogenous leukemia),250,65,50,20,25,45,Toxic
+151,CuO,20,Spherical,-30.5,316,Dispersed,0.9,0,0.002,Commercial Copper Oxide Nanoparticles,None,High,100,24,"PBMCs (Peripheral Blood Mononuclear Cells, control group)",20,8,3,1.5,100,95,Non-Toxic
+152,CuO,22,Spherical,-25.41,34.62,Dispersed,0.9,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,10,24,HepG2 (human hepatocellular carcinoma),250,65,50,20,10,45,Toxic
+153,CuO,22,Spherical,-25.41,34.62,Dispersed,0.9,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,10,24,"HepG2 (human hepatocellular carcinoma, NAC-pretreated control)",30,8,3,1.5,500,98,Non-Toxic
+154,CuO,20,Spherical,-24.3,310,Dispersed,1.2,0,0.002,Green-synthesized Copper Oxide using plant extract,None,High,25,24,A549 (human lung carcinoma),250,65,50,20,25,40,Toxic
+155,CuO,20,Spherical,-24.3,310,Dispersed,1.2,0,0.002,Green-synthesized Copper Oxide using plant extract,None,High,150,24,"Normal Human Fibroblast (NHFB, control group)",20,8,3,1.5,150,95,Non-Toxic
+156,CuO,30,Spherical,-22.3,280,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,40,24,HEp-2 (human laryngeal epithelial cells),280,75,60,25,40,38,Toxic
+157,CuO,30,Spherical,-22.3,280,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,40,24,"HEp-2 (human laryngeal epithelial cells, Resveratrol co-treatment)",30,10,5,2,500,95,Non-Toxic
+158,CuO,22,Spherical,-25.4,34.62,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,25,24,HepG2 (human hepatocellular carcinoma),250,75,60,25,25,40,Toxic
+159,CuO,22,Spherical,-25.4,34.62,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,25,24,"HepG2 (human hepatocellular carcinoma, NAC-pretreated control)",30,10,5,2,500,95,Non-Toxic
+160,CuO,22,Spherical,-25.4,34.62,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,382,12,Human Blood Lymphocytes,250,65,50,20,382,50,Toxic
+161,CuO,22,Spherical,-25.4,34.62,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,382,12,Human Blood Lymphocytes (BHT-pretreated control),30,8,3,1.5,500,95,Non-Toxic
+162,CuO,30,Spherical,-22.3,280,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,20,24,HaCaT (human keratinocytes),260,70,55,25,20,42,Toxic
+163,CuO,30,Spherical,-22.3,280,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,20,24,"HaCaT (human keratinocytes, Nutlin-3α co-treatment)",30,10,5,2,500,98,Non-Toxic
+164,CuO,22,Spherical,-25.4,34.62,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,10,24,HaCaT (human keratinocytes),250,65,50,20,10,40,Toxic
+165,CuO,22,Spherical,-25.4,34.62,Dispersed,1.2,0,0.002,Aqueous-precipitated CuO nanoparticles,None,High,100,24,"Mouse Embryonic Fibroblasts (MEF, control group)",20,8,3,1.5,100,95,Non-Toxic
+166,CuO,50,Spherical,-22.5,290,Dispersed,1.2,0,0.003,Aqueous-precipitated CuO nanoparticles,None,High,30,24,Keratinocytes (HaCaT),270,75,60,25,30,40,Toxic
+167,CuO,50,Spherical,-22.5,290,Dispersed,1.2,0,0.003,Aqueous-precipitated CuO nanoparticles,None,High,100,24,Fibroblasts (Mouse Embryonic Fibroblasts),30,10,5,2,500,95,Non-Toxic
+168,CuO,45,Spherical,-23.4,312,Dispersed,1.3,0,0.004,Hydrothermal CuO NPs,None,High,20,24,Human Blood Lymphocytes,240,70,55,22,20,42,Toxic
+169,CuO,45,Spherical,-23.4,312,Dispersed,1.3,0,0.004,Hydrothermal CuO NPs,None,High,80,24,Human Blood Lymphocytes (Antioxidant-pretreated control),25,10,4,1.8,450,96,Non-Toxic
+170,CuO,50,Crystalline,-30.5,29,Dispersed,1.8,0,0.0015,Crystalline CuO NPs,None,High,65.5,48,HEK-293 (Human embryonic kidney cells),300,85,70,30,65.5,40,Toxic
+171,CuO,50,Crystalline,-30.5,29,Dispersed,1.8,0,0.0015,Crystalline CuO NPs,None,Moderate,10,48,"HEK-293 (Human embryonic kidney cells, GSH supplement)",50,8,5,2,500,95,Non-Toxic
+172,CuO,18,Spherical,-22.8,315,Dispersed,1.1,0,0.002,Green-synthesized Copper Oxide using plant extract,None,High,20,24,HepG2 (human hepatocellular carcinoma),250,65,50,20,20,45,Toxic
+173,CuO,18,Spherical,-22.8,315,Dispersed,1.1,0,0.002,Green-synthesized Copper Oxide using plant extract,None,High,100,24,"Normal Human Fibroblast (NHFB, control group)",20,8,3,1.5,500,95,Non-Toxic
+174,CuO,35,Spherical,-38,20,Dispersed,5,0,0.1,Biogenic Coated,Floral Extract,High,175,72,Zebrafish Embryo,60,25,2.2,26.9,150,50,Toxic
+175,CuO,20,Spherical,-30,25,Dispersed,2.1,0,0.05,Uncoated,None,High,15,24,A549 (Lung Epithelial),60,30,5,15,15,50,Toxic
+176,CuO,30,Spherical,-35,22,Dispersed,5,0,0.08,Coated,Fulvic Acid,Moderate,10,48,Zebrafish Embryo,60,20,3,10,20,60,Toxic
+177,CuO,25,Spherical,-32,27,Aggregated,3.5,0,0.06,Uncoated,None,High,100,72,Rat Lung Cells,60,40,7,20,12,40,Toxic
+178,CuO,18,Rod,-28,30,Dispersed,1.5,0,0.02,Coated,None,High,5,12,Escherichia coli,60,35,6,18,10,45,Toxic
+179,CuO,14,Spherical,-23,30,Dispersed,1.8,0,0.05,Biogenic Coated,Tribulus terrestris Extract,High,10,24,Human Mesenchymal Stem Cells,60,10,2,5,50,85,Non-Toxic
+180,CuO,14,Spherical,-23,30,Dispersed,1.8,0,0.05,Biogenic Coated,Tribulus terrestris Extract,High,25,24,AGS Gastric Adenocarcinoma Cells,60,35,20,15,25,50,Toxic
+181,CuO,14,Spherical,-23,30,Dispersed,1.8,0,0.05,Biogenic Coated,Tribulus terrestris Extract,High,17,12,E. coli,60,40,5,25,12,35,Toxic
+182,CuO,14,Spherical,-23,30,Dispersed,1.8,0,0.05,Biogenic Coated,Tribulus terrestris Extract,High,19.5,12,S. aureus,60,45,8,30,10,30,Toxic
+183,CuO,20,Spherical,-33,35,Dispersed,2.5,0,0.05,Uncoated,None,High,20,24,A549 (Lung Adenocarcinoma),60,40,20,15,20,50,Toxic
+184,CuO,20,Spherical,-33,35,Dispersed,2.5,0,0.05,Uncoated,None,High,20,24,HepG2 (Liver Cancer Cells),60,50,25,20,20,45,Toxic
+185,CuO,20,Spherical,-33,35,Dispersed,2.5,0,0.05,Uncoated,None,High,20,24,RAW264.7 (Mouse Macrophage),60,55,30,25,20,40,Toxic
+186,CuO,20,Spherical,-33,35,Dispersed,2.5,0,0.05,Coated,Curcumin/BSA,Moderate,20,24,A549 (Lung Adenocarcinoma) - Detoxified,60,15,5,5,50,85,Non-Toxic
+187,CuO,40,Spherical,-20,15,Dispersed,2.8,0,0.05,Uncoated,None,High,1,16,HepG2 (Liver Cancer Cells),60,5,2,3,8,95,Non-Toxic
+188,CuO,40,Spherical,-20,15,Dispersed,2.8,0,0.05,Uncoated,None,High,8,16,HepG2 (Liver Cancer Cells),60,35,15,10,8,50,Toxic
+189,CuO,40,Spherical,-20,15,Dispersed,2.8,0,0.05,Uncoated,None,Very High,20,16,HepG2 (Liver Cancer Cells),60,60,30,25,8,20,Toxic
+190,CuO,40,Spherical,-20,15,Dispersed,2.8,0,0.05,Uncoated,None,Moderate,20,16,HepG2 (Liver Cancer Cells) - NAC Treated,60,10,5,5,25,85,Non-Toxic
+191,CuO,23,Spherical,-25,,Dispersed,3.2,0,0.05,Uncoated,None,High,5,24,A549 (Lung Epithelial Cells),60,20,10,5,10,81,Toxic
+192,CuO,23,Spherical,-25,,Dispersed,3.2,0,0.05,Uncoated,None,High,10,24,A549 (Lung Epithelial Cells),60,35,20,15,10,56,Toxic
+193,CuO,23,Spherical,-25,,Dispersed,3.2,0,0.05,Uncoated,None,Very High,15,24,A549 (Lung Epithelial Cells),60,50,30,25,10,31,Toxic
+194,Cu/CuO,20,Spherical,-6,,Dispersed,3,0,0.05,Uncoated,None,High,201,72,WI-38 (Normal Lung Fibroblast),60,20,10,5,201,50,Toxic
+195,Cu/CuO,20,Spherical,-6,,Dispersed,3,0,0.05,Uncoated,None,High,209,72,A549 (Lung Carcinoma Cells),60,35,20,15,209,50,Toxic
+196,Cu/CuO,20,Spherical,-6,,Dispersed,3,0,0.05,Uncoated,None,Very High,300,72,A549 (Lung Carcinoma Cells),60,50,30,25,209,20,Toxic
+197,CuO,30,Spherical,-25,,Dispersed,8.4,0,0.05,Uncoated,None,High,15,24,A549 (Lung Epithelial Cells),60,35,20,15,15,50,Toxic
+198,CuO,30,Spherical,-25,,Dispersed,8.4,0,0.05,Uncoated,None,Very High,50,24,A549 (Lung Epithelial Cells),60,50,30,25,15,20,Toxic
+199,CuO,30,Spherical,-25,,Dispersed,8.4,0,0.05,Uncoated,None,Moderate,50,24,A549 (Lung Epithelial Cells) - Recovery Phase,60,10,5,5,50,80,Non-Toxic
+200,CuO,30,Spherical,-8,25,Agglomerated,5,0,0.05,Uncoated,None,High,9,24,TT1 (Human Pulmonary Alveolar Epithelial Cells),60,30,20,15,9,50,Toxic
+201,CuO,30,Spherical,-8,25,Agglomerated,5,0,0.05,Uncoated,None,High,8,24,Mussel Hemocytes,60,40,30,20,8,50,Toxic
+202,CuO,30,Spherical,-8,25,Agglomerated,5,0,0.05,Uncoated,None,Moderate,7,24,Mussel Gill Cells,60,30,15,10,7,50,Toxic
+203,CuO,30,Spherical,-25,50,Dispersed,6,0,0.05,Uncoated,None,High,80,5,HEp-2 (Human Laryngeal Epithelial Cells),60,60,30,25,80,40,Toxic
+204,CuO,30,Spherical,-25,50,Dispersed,6,0,0.05,Uncoated,None,Very High,40,5,HEp-2 (Human Laryngeal Epithelial Cells),60,40,20,15,40,60,Toxic
+205,CuO,30,Spherical,-25,50,Dispersed,6,0,0.05,Uncoated,None,Moderate,20,5,HEp-2 (Human Laryngeal Epithelial Cells),60,20,10,5,20,80,Non-Toxic
+206,CuO,80,Spherical,-10,40,Agglomerated,4,0,0.05,Uncoated,None,Moderate,0.91,24,HDF (Human Dermal Fibroblast Cells),60,5,3,2,200,97,Non-Toxic
+207,CuO,80,Spherical,-10,40,Agglomerated,4,0,0.05,Uncoated,None,High,0.91,24,HepG2 (Human Hepatocellular Carcinoma Cells),60,20,15,10,150,80,Toxic
+208,CuO,80,Spherical,-10,40,Agglomerated,4,0,0.05,Uncoated,None,Very High,0.91,168,HepG2 (Human Hepatocellular Carcinoma Cells),60,30,20,15,120,75,Toxic
+209,ZnO,24,Spherical,-30,55,Dispersed,10,7,0.05,Uncoated,None,High,100,24,Caco-2 (Human Colorectal Adenocarcinoma),60,50,30,20,25,40,Toxic
+210,ZnO,56,Spherical,-28,45,Dispersed,7,5,0.05,Uncoated,None,Moderate,50,24,Caco-2 (Human Colorectal Adenocarcinoma),60,35,20,10,50,60,Toxic
+211,ZnO,87,Spherical,-25,35,Aggregated,5,3,0.05,Uncoated,None,Low,10,24,Caco-2 (Human Colorectal Adenocarcinoma),60,15,5,3,100,85,Non-Toxic
+212,ZnO,40,Hexagonal,-28,50,Dispersed,10,7,0.05,Uncoated,None,High,90,24,MCF7 (Breast Cancer Cells),60,40,20,15,90,50,Toxic
+213,ZnO,30,Spherical,-25,45,Dispersed,7,5,0.05,Uncoated,None,High,15,24,Caco-2 (Colorectal Adenocarcinoma Cells),60,50,30,20,15,50,Toxic
+214,ZnO,30,Spherical,-25,45,Dispersed,7,5,0.05,Uncoated,None,Very High,50,24,Caco-2 (Colorectal Adenocarcinoma Cells),60,60,35,25,15,20,Toxic
+215,ZnO,30,Spherical,-25,45,Dispersed,7,5,0.05,Uncoated,None,Moderate,50,24,Caco-2 (Colorectal Adenocarcinoma Cells) - Recovery,60,10,5,5,50,80,Non-Toxic
+216,ZnO,20,Spherical,3,60,Dispersed,10,7,0.05,BSA-coated,Covalent,Moderate,10,3,CHO (Chinese Hamster Ovary Cells),60,5,3,2,200,90,Non-Toxic
+217,ZnO,40,Spherical,-5,55,Dispersed,15,10,0.05,Uncoated,None,High,100,72,Chlorella vulgaris (Marine Algae),60,50,30,20,25,23,Toxic
+218,ZnO,40,Spherical,-5,55,Dispersed,15,10,0.05,Uncoated,None,High,50,72,Chlorella vulgaris (Marine Algae),60,35,20,10,50,62,Toxic
+219,ZnO,40,Spherical,-5,55,Dispersed,15,10,0.05,Uncoated,None,Moderate,10,72,Chlorella vulgaris (Marine Algae),60,10,5,3,100,80,Non-Toxic
+220,ZnO,20,Spherical,3,60,Dispersed,10,7,0.05,BSA-coated,Covalent,Moderate,10,3,CHO (Chinese Hamster Ovary Cells),60,5,3,2,200,90,Non-Toxic
+221,ZnO,40,Spherical,-5,55,Dispersed,15,10,0.05,Uncoated,None,High,100,72,Chlorella vulgaris (Marine Algae),60,50,30,20,25,23,Toxic
+222,ZnO,40,Spherical,-5,55,Dispersed,15,10,0.05,Uncoated,None,High,50,72,Chlorella vulgaris (Marine Algae),60,35,20,10,50,62,Toxic
+223,ZnO,40,Spherical,-5,55,Dispersed,15,10,0.05,Uncoated,None,Moderate,10,72,Chlorella vulgaris (Marine Algae),60,10,5,3,100,80,Non-Toxic
+224,ZnO,50,Spherical,-20,45,Dispersed,8,5,0.05,Uncoated,None,High,100,48,Human epithelial cells,60,45,25,20,30,50,Toxic
+225,ZnO,100,Spherical,-18,40,Aggregated,6,4,0.05,Uncoated,None,Moderate,50,24,Human epithelial cells,60,30,15,10,60,65,Toxic
+226,ZnO,75,Spherical,-22,50,Dispersed,9,6,0.05,Uncoated,None,Very High,20,24,Allium cepa root cells,60,50,30,20,25,40,Toxic
+227,ZnO,80,Spherical,-19,42,Aggregated,7,5,0.05,Uncoated,None,Moderate,10,24,Allium cepa root cells,60,20,10,5,80,75,Non-Toxic
+228,ZnO,50,Spherical,-20,45,Dispersed,8,5,0.05,Uncoated,None,High,100,48,Human epithelial cells,60,45,25,20,30,50,Toxic
+229,ZnO,100,Spherical,-18,40,Aggregated,6,4,0.05,Uncoated,None,Moderate,50,24,Human epithelial cells,60,30,15,10,60,65,Toxic
+230,ZnO,75,Spherical,-22,50,Dispersed,9,6,0.05,Uncoated,None,Very High,20,24,Allium cepa root cells,60,50,30,20,25,40,Toxic
+231,ZnO,80,Spherical,-19,42,Aggregated,7,5,0.05,Uncoated,None,Moderate,10,24,Allium cepa root cells,60,20,10,5,80,75,Non-Toxic
+232,ZnO,30,Spherical,-25,50,Dispersed,10,6,0.05,Uncoated,None,High,100,24,HCAEC (Human Coronary Artery Endothelial Cells),60,50,30,20,25,40,Toxic
+233,ZnO,20,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,Very High,50,24,HCAEC (Human Coronary Artery Endothelial Cells),60,60,35,25,20,20,Toxic
+234,ZnO,15,Spherical,-20,55,Dispersed,12,8,0.05,Uncoated,None,Moderate,10,24,JB6 Cl 41-5a (Normal Skin Cells),60,30,15,10,50,70,Toxic
+235,ZnO,15,Spherical,-20,55,Dispersed,12,8,0.05,Uncoated,None,High,100,24,JB6 Cl 41-5a (Normal Skin Cells),60,50,30,25,10,30,Toxic
+236,ZnO,44,Spherical,-22,55,Dispersed,10,7,0.05,Uncoated,None,Very High,200,96,Spirulina platensis (Cyanobacteria),60,76,35,25,31,13,Toxic
+237,ZnO,66,Spherical,-18,50,Dispersed,8,5,0.05,Biosynthesized,Albizia lebbeck extract,Moderate,100,24,MCF7 (Breast Cancer Cells),60,40,20,15,48,50,Toxic
+238,ZnO,66,Spherical,-18,50,Dispersed,8,5,0.05,Biosynthesized,Albizia lebbeck extract,Moderate,100,24,MDA-MB 231 (Breast Cancer Cells),60,50,25,20,45,47,Toxic
+239,ZnO,88,Spherical,-25,12,Aggregated,10,6,0.05,Uncoated,None,Very High,20,12,GC-1 (Mouse Spermatogonia Cells),60,55,40,20,18,30,Toxic
+240,ZnO,50,Spherical,-22,18,Dispersed,8,5,0.05,Uncoated,None,Moderate,10,6,GC-1 (Mouse Spermatogonia Cells),60,25,10,5,50,70,Non-Toxic
+241,ZnO,80,Spherical,-20,22,Aggregated,7,5,0.05,Uncoated,None,High,25,24,A172 Glial Cells,60,50,30,20,20,40,Toxic
+242,ZnO,75,Spherical,-18,25,Dispersed,6,4,0.05,Uncoated,None,Moderate,10,24,Zebrafish Embryos,60,20,10,5,80,75,Non-Toxic
+243,ZnO,44,Spherical,-20,55,Dispersed,10,6,0.05,Uncoated,None,Very High,200,96,Human erythrocytes,60,76,35,25,31,13,Toxic
+244,ZnO,30,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,Very High,50,24,Human lymphocytes,60,60,35,25,20,20,Toxic
+245,ZnO,50,Spherical,-18,50,Dispersed,8,5,0.05,Uncoated,None,Moderate,100,24,Human multiple myeloma cells (RPMI8226),60,40,20,15,48,50,Toxic
+246,ZnO,50,Spherical,-18,50,Dispersed,8,5,0.05,Uncoated,None,Moderate,100,24,Peripheral blood mononuclear cells (PBMCs),60,10,5,2,80,85,Non-Toxic
+247,ZnO,13,Spherical,-15,50,Dispersed,10,6,0.05,Uncoated,None,Very High,25,16,BEAS-2B (Human Lung Epithelial Cells),60,55,40,20,18,30,Toxic
+248,ZnO,20,Spherical,-22,45,Dispersed,8,5,0.05,Biosynthesized,Papaver somniferum extract,Moderate,100,24,THP-1 (Leukemia Monocytic Cells),60,40,20,15,48,50,Toxic
+249,ZnO,20,Spherical,-22,45,Dispersed,8,5,0.05,Biosynthesized,Papaver somniferum extract,Moderate,100,24,MDA-MB 231 (Breast Cancer Cells),60,50,25,20,45,47,Toxic
+250,ZnO,20,Spherical,-22,45,Dispersed,8,5,0.05,Biosynthesized,Papaver somniferum extract,Moderate,10,24,THP-1 (Leukemia Monocytic Cells) - Recovery,60,10,5,5,50,80,Non-Toxic
+251,ZnO,29,"Triangle, Radial, Hexagonal, Rod, Rectangle",-20,50,Dispersed,12,8,0.05,Biosynthesized,Eclipta prostrata leaf extract,Very High,100,24,Hep-G2 (Human Liver Carcinoma Cells),60,67,40,20,25,33,Toxic
+252,ZnO,50,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,Very High,100,24,A549 (Human Lung Epithelial Cells),60,60,35,25,20,20,Toxic
+253,ZnO,50,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,High,30,24,A549 (Human Lung Epithelial Cells),60,40,20,15,48,50,Toxic
+254,ZnO,50,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,Moderate,10,24,A549 (Human Lung Epithelial Cells) - Recovery,60,10,5,5,50,80,Non-Toxic
+255,ZnO,20,Spherical,-18,45,Dispersed,10,6,0.05,Biosynthesized,Sargassum muticum extract,Very High,72,72,4T1 (Murine Breast Cancer Cells),60,65,45,20,21.7,35,Toxic
+256,ZnO,20,Spherical,-18,45,Dispersed,10,6,0.05,Biosynthesized,Sargassum muticum extract,Very High,72,72,WEHI-3B (Murine Myelocytic Leukemia Cells),60,70,50,25,5.6,30,Toxic
+257,ZnO,50,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,Very High,100,24,FE1-MML (Mouse Lung Epithelial Cells),60,60,35,25,20,20,Toxic
+258,ZnO,50,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,High,30,24,FE1-MML (Mouse Lung Epithelial Cells),60,40,20,15,48,50,Toxic
+259,ZnO,20,Spherical,-22,45,Dispersed,10,6,0.05,Uncoated,None,Very High,100,24,A549 (Human Lung Epithelial Cells),60,67,40,20,25,33,Toxic
+260,ZnO,50,Spherical,-18,50,Dispersed,8,5,0.05,Biosynthesized,Deverra tortuosa extract,Moderate,100,24,Caco-2 (Human Colon Adenocarcinoma Cells),60,40,20,15,48,50,Toxic
+261,ZnO,50,Spherical,-18,50,Dispersed,8,5,0.05,Biosynthesized,Deverra tortuosa extract,Moderate,100,24,A549 (Human Lung Adenocarcinoma Cells),60,50,25,20,45,47,Toxic
+262,ZnO,32,Hexagonal,-25,50,Dispersed,10,7,0.05,Uncoated,None,High,100,24,HepG2 (Human Liver Cancer Cells),60,67,40,20,25,33,Toxic
+263,ZnO,23,Hexagonal,-28,55,Dispersed,12,8,0.05,Biosynthesized,Boerhavia diffusa Linn extract,Very High,100,24,HepG2 (Human Liver Cancer Cells),60,70,45,25,20,30,Toxic
+264,ZnO,50,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,Very High,100,24,HEp-2 (Human Epithelial Cells),60,60,35,25,20,20,Toxic
+265,ZnO,50,Spherical,-22,45,Dispersed,8,5,0.05,Uncoated,None,High,30,24,HEp-2 (Human Epithelial Cells),60,40,20,15,48,50,Toxic
+266,ZnO,100,Spherical,-25,50,Dispersed,10,6,0.05,Uncoated,None,Very High,25,24,"U-937 (Monocytes, Innate Immune Cells)",60,55,40,20,18,30,Toxic
+267,ZnO,130,Spherical,-22,48,Dispersed,8,5,0.05,Uncoated,None,Very High,12,24,"HL-60 (Promyelocytes, Innate Immune Cells)",60,60,35,25,15,20,Toxic
+268,ZnO,100,Spherical,-20,50,Dispersed,9,6,0.05,Uncoated,None,High,6,24,"COLO-720L (B Lymphocytes, Adaptive Immune Cells)",60,40,20,15,30,50,Toxic
+269,ZnO,130,Spherical,-18,45,Dispersed,8,5,0.05,Uncoated,None,Moderate,6,24,"HUT-78 (T Lymphocytes, Adaptive Immune Cells)",60,45,25,20,28,45,Toxic
+270,ZnO,86,Rod-shaped,-15,25,Aggregated,10,6,0.05,Uncoated,None,Very High,50,24,Human Nasal Mucosa Cells,60,52,40,20,10,48,Toxic
+271,ZnO,47,Rod-shaped,-14,32,Aggregated,9,5,0.05,Uncoated,None,Very High,50,24,SHSY5Y (Human Neuroblastoma Cells),60,65,45,20,20,35,Toxic
+272,ZnO,18,Rod-shaped,-15,17,Dispersed,7,4,0.05,Uncoated,None,High,25,24,SHSY5Y (Human Neuroblastoma Cells),60,40,20,15,30,50,Toxic
+273,ZnO,30,Spherical,-20,45,Dispersed,9,6,0.05,Uncoated,None,Very High,20,24,A549 (Human Lung Epithelial Cells),60,55,35,15,25,40,Toxic
+274,ZnO,90,Spherical,-18,40,Dispersed,8,5,0.05,Uncoated,None,High,50,24,Caco-2 (Colorectal Adenocarcinoma Cells),60,60,40,20,10,30,Toxic
+275,ZnO,90,Spherical,-16,38,Dispersed,7,4,0.05,Uncoated,None,Moderate,25,24,Caco-2 (Colorectal Adenocarcinoma Cells),60,35,20,10,30,50,Toxic
+276,ZnO,32,Spherical,-25,50,Dispersed,10,6,0.05,Uncoated,None,Very High,14,6,Primary Human Epidermal Keratinocytes (HEK),60,52,40,20,10,48,Toxic
+277,ZnO,50,Spherical,-20,45,Dispersed,9,5,0.05,Uncoated,None,Very High,50,24,hiPSC-Derived Cardiomyocytes,60,65,45,20,20,35,Toxic
+278,ZnO,18,Spherical,-18,40,Dispersed,7,4,0.05,Uncoated,None,High,25,24,hiPSC-Derived Cardiomyocytes,60,40,20,15,30,50,Toxic
+279,ZnO,19,Hexagonal,-22,50,Dispersed,10,6,0.05,Biosynthesized,Lagerstroemia indica extract,Very High,36,72,HeLa (Cervical Cancer Cells),60,67,40,20,30,33,Toxic
+280,ZnO,19,Hexagonal,-22,50,Dispersed,10,6,0.05,Biosynthesized,Lagerstroemia indica extract,Very High,30,72,MCF-7 (Breast Cancer Cells),60,60,45,20,36,35,Toxic
+281,ZnO,100,Rod,-18,40,Aggregated,8,5,0.05,Uncoated,None,Moderate,1,2016,MEF (Mouse Embryonic Fibroblasts),60,5,2,1,200,98,Non-Toxic
+282,ZnO,50,Spherical,-17.8,93.6,Dispersed,10,6,0.05,Uncoated,None,Very High,100,24,L-132 (Human Lung Epithelial Cells),60,67,40,20,30,33,Toxic
+283,ZnO,19,Spherical,-22,50,Dispersed,10,6,0.05,Uncoated,None,Very High,50,72,A549 (Human Alveolar Epithelial Cells),60,60,45,20,36,35,Toxic
+284,ZnO,100,Rod,-18,40,Aggregated,8,5,0.05,Uncoated,None,Moderate,1,2016,SH-SY5Y (Human Neuroblastoma Cells),60,5,2,1,200,98,Non-Toxic
+285,ZnO,20,Spherical,-22,50,Dispersed,8,5,0.05,Rubus Fairholmianus Capped,Rubus Fairholmianus Extract,Very High,10,24,MCF-7 (Breast Cancer Cells),60,65,42,18,10,50,Toxic
+286,ZnO,50,Spherical,-18,40,Dispersed,10,6,0.05,Uncoated,None,Very High,50,24,C6 Glial Cells,60,55,35,15,20,60,Toxic
+287,ZnO,45,Spherical,-16,38,Dispersed,7,4,0.05,Melatonin Functionalized,Melatonin,Moderate,30,24,Mice Brain Cells,60,20,15,8,80,85,Non-Toxic
+288,ZnO,6,Spherical,-20,50,Dispersed,5,3,0.1,Uncoated,None,High,50,24,Bone Marrow Mesenchymal Stem Cells,60,30,40,15,45,60,Toxic
+289,ZnO,8,Spherical,-18,55,Dispersed,6,4,0.2,Uncoated,None,High,70,24,Mouse Bone Marrow Stem Cells,60,40,55,20,35,50,Toxic
+290,ZnO,80,Polygonal,-16.5,75.3,Dispersed,12,7,0.02,Uncoated,None,High,30,24,Mouse Ovarian Germ Cells,60,50,35,15,28,40,Toxic
+291,ZnO,10,Spherical,-19,85.2,Dispersed,14,8,0.01,PEGylated,PEG,Very High,25,48,Cancer Stem Cells (CD44+),60,55,45,20,22,30,Toxic
+292,ZnO,90,Rod,-14,60,Aggregated,9,5,0.02,Uncoated,None,Moderate,1,168,Macrophages (RAW 264.7),60,10,5,3,150,95,Non-Toxic
+293,ZnO,76,Oval,-11.2,-10,Dispersed,10,6,0.05,Uncoated,None,High,5,24,Human Nasal Mucosa Cells (Mini Organ Culture),60,40,30,10,28,60,Toxic
+294,ZnO,50,Spherical,-17.8,93.6,Dispersed,12,7,0.02,Uncoated,None,Very High,100,24,SH-SY5Y (Human Neuronal Cells),60,67,40,20,30,33,Toxic
+295,ZnO,100,Rod,-18,40,Aggregated,8,5,0.02,Uncoated,None,Moderate,1,2016,Neuroblastoma Cells (SH-SY5Y),60,5,2,1,200,98,Non-Toxic
+296,ZnO,20,Spherical,-22.5,65.4,Dispersed,9.5,5.8,0.05,Uncoated,None,Very High,40,24,RAW 264.7 (Murine Macrophages),60,55,40,25,22,35,Toxic
+297,ZnO,100,Rod,-18,40,Aggregated,8,5,0.05,Uncoated,None,Moderate,1,336,Primary Human Liver Cells,60,5,2,1,180,98,Non-Toxic
+298,ZnO,50,Spherical,-19,55,Dispersed,10,6,0.05,Food-Grade ZnO,None,High,100,24,Caco-2 (Human Intestinal Epithelial Cells),60,65,45,20,20,30,Toxic
+299,ZnO,10,Spherical,-21,85.3,Dispersed,11,6,0.05,Uncoated,None,Very High,10,24,BEAS-2B (Human Bronchial Epithelial Cells),60,67,40,20,30,33,Toxic
+300,ZnO,22.5,Spherical,14.4,60,Dispersed,10,6,0.02,Uncoated,None,Very High,20,24,BJ (Human Skin Fibroblasts),60,60,45,20,25,35,Toxic
+301,ZnO,100,Rod,-18,40,Aggregated,8,5,0.02,Uncoated,None,Moderate,1,168,"BJ (Human Skin Fibroblasts, p53 Knockdown)",60,10,5,3,150,95,Non-Toxic
+302,ZnO,50,Spherical,-11.5,93.6,Dispersed,12,7,0.02,Uncoated,None,Very High,2.5,24,Murine Macrophages,60,55,40,20,30,33,Toxic
+303,ZnO,50,Spherical,-11.5,85.3,Dispersed,11,6,0.05,Uncoated,None,Very High,3,120,Renal Podocytes (Kidney Cells),60,67,40,20,30,33,Toxic
+304,ZnO,20,Spherical,-15,100,Dispersed,10,5,0.02,Uncoated,None,Moderate,1,72,Rat Kidney Cells (Wistar Rats),60,30,20,10,50,65,Toxic
+305,ZnO,30,Spherical,-12,85.3,Dispersed,11,6,0.05,Uncoated,None,Very High,20,12,HepG2 (Human Liver Cells),60,60,40,20,14,43,Toxic
+306,ZnO,70,Spherical,-15,90,Dispersed,12,7,0.02,Uncoated,None,Very High,50,48,HEK-293 (Human Embryonic Kidney Cells),60,65,45,20,25,30,Toxic
+307,ZnO,100,Rod,-18,40,Aggregated,8,5,0.02,Uncoated,None,Moderate,1,336,HEK-293 (Human Embryonic Kidney Cells),60,10,5,3,150,95,Non-Toxic
