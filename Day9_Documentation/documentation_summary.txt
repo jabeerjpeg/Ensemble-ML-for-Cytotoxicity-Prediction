@@ -1,0 +1,22 @@
+
+NANOPARTICLE TOXICITY CLASSIFICATION DOCUMENTATION
+Generated: 2025-11-01 09:13
+
+MODEL CARD SUMMARY:
+- Model Type: Stacked Ensemble (LightGBM + Random Forest)
+- Target: Toxicity Classification (4 classes)
+- Performance: 0.836 Macro F1-score
+- Best Features: Cell Viability, Exposure Dosage, Membrane Damage
+- Use Case: Research screening and prioritization
+
+DATA CARD SUMMARY:
+- Samples: 308 nanoparticles
+- Features: 22 variables
+- Categories: Physical, Chemical, Biological, Exposure
+- Quality: Curated, preprocessed, validated
+
+DOCUMENTS:
+- Model Card: /content/drive/MyDrive/Paper5_RESEARCHML/documents/model_card.pdf
+- Data Card: /content/drive/MyDrive/Paper5_RESEARCHML/documents/data_card.pdf
+
+CONTACT: For questions about model usage or data access

@@ -1,0 +1,24 @@
+{
+  "version": "v1.0",
+  "creation_date": "2025-11-01 16:59",
+  "model_type": "Stacked Ensemble",
+  "base_models": [
+    "rf",
+    "lgb"
+  ],
+  "meta_learner": "LogisticRegression",
+  "performance": {
+    "f1_macro": 0.9594771241830065,
+    "f1_ci_lower": 0.8985329277464108,
+    "f1_ci_upper": 1.0,
+    "balanced_accuracy": 0.9444444444444444,
+    "balanced_acc_ci_lower": 0.8675,
+    "balanced_acc_ci_upper": 1.0
+  },
+  "data_info": {
+    "train_samples": 246,
+    "test_samples": 62,
+    "n_features": 22,
+    "n_classes": 3
+  }
+}

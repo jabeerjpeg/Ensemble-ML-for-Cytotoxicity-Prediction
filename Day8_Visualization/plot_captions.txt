@@ -1,0 +1,12 @@
+PLOT CAPTIONS AND DESCRIPTIONS
+==================================================
+
+Multi-class ROC Curves (roc_curves.png)
+Figure 1: Receiver Operating Characteristic (ROC) curves for the nanoparticle toxicity classification model. The plot shows model performance across four toxicity classes, with macro-average AUC of nan. All classes demonstrate strong discriminatory power above the random classifier baseline.
+
+Precision-Recall Curves (precision_recall_curves.png)
+Figure 2: Precision-Recall curves evaluating the trade-off between precision and recall for each toxicity class. The micro-average Average Precision (AP) score of 0.998 indicates robust performance across imbalanced classes, with consistent precision maintained at high recall levels.
+
+Feature Importance Rankings (feature_importance_ranks.png)
+Figure 3: Top 15 features ranked by importance in toxicity prediction. Necrosis (%) emerges as the most influential feature (176.000), followed by Membrane Damage (%) (125.000) and Apoptosis (%) (119.000). Biological response metrics dominate the top rankings.
+

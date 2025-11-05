@@ -1,0 +1,1 @@
+SMOTE performs slightly better → set SMOTE as default.
